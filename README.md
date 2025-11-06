@@ -1,5 +1,9 @@
 # React + Vite
 
+The template doesn't have the modules. Install everything by using npm create vite@latest app -- --template react
+
+DO NOT IMPORT THE REPOSITORY
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
